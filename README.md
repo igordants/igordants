@@ -1,7 +1,7 @@
 ### Olá, eu sou o Igor Dantas👋
 
 - 🔭 Atualmente sou estagiário e bolsista do T.I
-- 🌱 Estudante de Java/C++/Tailwind
+- 🌱 Estudante de Java/Laravel/Tailwind
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Laravel" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
