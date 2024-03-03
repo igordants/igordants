@@ -11,7 +11,9 @@
   <img align="center" alt="Igor-CSS" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Java" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Igor-C++" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Igor-JavaScript" height="100" width="100" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1">
 </div>
   
   ##
 <!-- Seção Das Redes Sociais -->
+
