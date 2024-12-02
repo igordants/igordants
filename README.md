@@ -1,4 +1,4 @@
-### Olá, eu sou o Igor Dantas👋
+### Olá, prazer Igor Dantas👋
 
 - 🔭 Atualmente estagiário e bolsista do T.I
 - 🌱 Estudante de Java/Laravel/Tailwind/Bootstrap/JavaScript/SQL
