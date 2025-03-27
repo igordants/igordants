@@ -1,6 +1,6 @@
 ### Olá, prazer Igor Dantas👋
 
-- 🔭 Atualmente estagiário e bolsista do T.I
+- 🔭 Atualmente Desenvolvedor JR/FLUIG
 - 🌱 Estudante de Java/Laravel/Tailwind/Bootstrap/JavaScript/SQL
 
 <div style="display: inline_block"><br>
